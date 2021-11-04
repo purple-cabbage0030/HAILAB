@@ -61,10 +61,14 @@
 <br>
 <h3>5. Flutter front end 개발 </h3>
 <img width="40%" src="https://user-images.githubusercontent.com/83717803/140242136-5241d4e8-8a1e-4d64-b13a-5ac5eb8549e3.gif">
-
+<br>
+<hr>
+<br>
  
+
+
  <h2><li> 🛠️ Future Improvements </h2></li>
 
 
- <h2><li><a href="https://sprinkle-fireplace-626.notion.site/Stock-Market-Visualization-Analysis-f99fc7d903e644948626abb573c16b5b"> 🗒️ Notion Link </a></li></h2>
+ <h2><li><a href="https://drive.google.com/file/d/1ihoVjY5YME69JlpJUoGGCAuofEpaz5a6/view?usp=sharing"> 📱 Android App Download Link </a></li></h2>
 </ol>
