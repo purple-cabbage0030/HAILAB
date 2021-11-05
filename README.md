@@ -82,9 +82,9 @@
 <ul>
   <li>code ➡️ <a href="https://github.com/Playdata-Team404/HAILAB/tree/main/frontend"> Link here </a></li>
   <li> some example screens </li>
-<img width="33%" src="https://user-images.githubusercontent.com/83717803/140473381-1a9a2211-c123-4c42-91db-ff9401c1c2f4.png">
-<img width="33%" src="https://user-images.githubusercontent.com/83717803/140473386-781437f6-07b9-4865-9cb8-b72177af754e.png">
-<img width="33%" src="https://user-images.githubusercontent.com/83717803/140473393-b45cf4c1-52d6-4d6f-b0e1-1f92520469ac.png">
+<img width="25%" src="https://user-images.githubusercontent.com/83717803/140473381-1a9a2211-c123-4c42-91db-ff9401c1c2f4.png">
+<img width="25%" src="https://user-images.githubusercontent.com/83717803/140473386-781437f6-07b9-4865-9cb8-b72177af754e.png">
+<img width="25%" src="https://user-images.githubusercontent.com/83717803/140473393-b45cf4c1-52d6-4d6f-b0e1-1f92520469ac.png">
 <img width="40%" src="https://user-images.githubusercontent.com/83717803/140242136-5241d4e8-8a1e-4d64-b13a-5ac5eb8549e3.gif">
 <img width="40%" src="https://user-images.githubusercontent.com/83717803/140473907-2a1f4f4a-8571-4a1d-83bd-62362a242de5.gif">
 </ul>
