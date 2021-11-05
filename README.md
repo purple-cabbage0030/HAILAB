@@ -66,6 +66,7 @@
 <h3>4. Django back end 기능 개발 </h3>
 <br>
 <ul>
+  <li>code ➡️ <a href="https://github.com/Playdata-Team404/HAILAB/tree/main/backend"> Link here </a></li>
   <li> 디렉토리 구조 </li>
   <br>
 <img width="40%" src="https://user-images.githubusercontent.com/83717803/140239558-3b02087f-891c-40a3-a308-530ab35cf24d.jpg">
@@ -78,7 +79,15 @@
 <hr>
 <br>
 <h3>5. Flutter front end 개발 </h3>
-<img width="40%" src="https://user-images.githubusercontent.com/83717803/140242136-5241d4e8-8a1e-4d64-b13a-5ac5eb8549e3.gif">
+<ul>
+  <li>code ➡️ <a href="https://github.com/Playdata-Team404/HAILAB/tree/main/frontend"> Link here </a></li>
+  <li> some example screens </li>
+<img width="275" src="https://user-images.githubusercontent.com/83717803/140473381-1a9a2211-c123-4c42-91db-ff9401c1c2f4.png">
+<img width="275" src="https://user-images.githubusercontent.com/83717803/140473386-781437f6-07b9-4865-9cb8-b72177af754e.png">
+<img width="275" src="https://user-images.githubusercontent.com/83717803/140473393-b45cf4c1-52d6-4d6f-b0e1-1f92520469ac.png">
+<img width="415" src="https://user-images.githubusercontent.com/83717803/140242136-5241d4e8-8a1e-4d64-b13a-5ac5eb8549e3.gif">
+<img width="415" src="https://user-images.githubusercontent.com/83717803/140473907-2a1f4f4a-8571-4a1d-83bd-62362a242de5.gif">
+</ul>
 <br>
 <hr>
 <br>
