@@ -99,7 +99,7 @@
       <li> Pose Detection 모델 개선 </li>
     </ol></h4>
 <br>
- <h2><li><a href="https://drive.google.com/file/d/1ihoVjY5YME69JlpJUoGGCAuofEpaz5a6/view?usp=sharing"> 📱 Android App Download Link </a></li></h2>
+ <h2><li><a href="https://drive.google.com/file/d/1VIgf4TELpgsWgJdLtWoZV382OaIinYUw/view?usp=sharing"> 📱 Android App Download Link </a></li></h2>
  <br>
  <img width="20%" src="https://user-images.githubusercontent.com/83717803/140471732-597c71ba-a1ee-47f0-84e0-d7d197308731.jpg"><br>
  <h3>You can find our app apk file here!</h3>
