@@ -30,16 +30,6 @@ class _FoodCameraState extends State<FoodCamera> {
   String dropdownValue = '아침';
   String holder = '';
 
-  getFoodInfo() async {
-    try {
-      var response =
-          await Dio().get('http://' + address + '/repository/predict');
-      print(response);
-    } catch (e) {
-      print(e);
-    }
-  }
-
   Future<void> _showDialog(BuildContext context) {
     return showDialog(
         context: context,
@@ -92,7 +82,7 @@ class _FoodCameraState extends State<FoodCamera> {
 
   Future _openCamera(BuildContext context) async {
     try {
-      final photo = await _picker.pickImage(source: ImageSource.camera);
+      final photo = await _picker.pickImage(source: ImageSource.camera, imageQuality: 5);
       if (photo != null) {
         File croppedFile = await ImageCropper.cropImage(
             sourcePath: photo.path,
