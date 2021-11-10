@@ -1,1 +1,1 @@
-# Backend for HAILAB
+# back-django
